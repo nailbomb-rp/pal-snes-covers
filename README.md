@@ -1,5 +1,4 @@
-# pal-snes-covers
-The ultimate collection of remastered PAL Super Nintendo covers. 
+# The ultimate collection of remastered PAL Super Nintendo covers. 
 
 This project has taken over a year to complete, painstakingly restoring, remastering and recreating all of the boxart/covers of the SNES games I loved as a kid. What makes this collection different to others that are out there is that I've both kept every one consistent to the same PAL template dimensions, but have also created PAL style covers for ALL of the American NTSC titles also.
 
